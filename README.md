@@ -1,4 +1,11 @@
-Type-and-share-code
-===================
 
-write and share url of your code in Django 
+type-code-poll-and-share
+========================
+
+Escribe codigo y compartelo en tiempo real  ( Polling ) - aun no esta integrado con node.js
+
+
+SERVER
+=====
+
+runing over fastcgi
